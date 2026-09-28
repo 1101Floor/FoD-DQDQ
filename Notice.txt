@@ -1,0 +1,3 @@
+TD3_S = first-order difference of dual Q-values (FoD-DQ^2)
+TD3_V = variance based Q-value uncertainty (QVar)
+TD3_E = ensemble-based uncertainty (EnsU)
