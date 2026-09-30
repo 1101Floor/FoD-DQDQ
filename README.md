@@ -1,3 +1,12 @@
+# FoD-DQ²
+
+Please cite our work Yuzhou Lu and Yi Zuo: FoD-DQ2: First-order Difference of Dual Q-values based on Deep Q-learning with Prioritized Experience Replay for Multi-Criteria AUVs Path Planning, IEEE Sensors Journal, 2026.
+
+https://doi: 10.1109/JSEN.2026.3735319
+
+https://ieeexplore.ieee.org/document/11713319
+
+
 # FoD-DQ² for Three-Dimensional Underwater Robot Path Planning
 
 This project investigates continuous-control path planning in a three-dimensional underwater environment. Its central method, **FoD-DQ²** (first-order difference of dual Q-values), measures temporal changes in disagreement between two independently trained critic networks. It uses the resulting uncertainty estimate to adjust prioritized experience replay (PER): transitions with large temporal-difference (TD) errors receive higher priority, whereas transitions updated during unstable value estimation are down-weighted.
