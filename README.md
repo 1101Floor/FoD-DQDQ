@@ -2,7 +2,7 @@
 
 Please cite our work Yuzhou Lu and Yi Zuo: FoD-DQ2: First-order Difference of Dual Q-values based on Deep Q-learning with Prioritized Experience Replay for Multi-Criteria AUVs Path Planning, IEEE Sensors Journal, 2026.
 
-https://doi: 10.1109/JSEN.2026.3735319
+https://doi.org/10.1109/JSEN.2026.3735319
 
 https://ieeexplore.ieee.org/document/11713319
 
